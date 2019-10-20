@@ -1,5 +1,4 @@
 import sys
-from math import ceil
 from Modules.Module1 import mbox, get_partnumber
 from Modules.get_inventor import invApp, mod
 
